@@ -1,4 +1,4 @@
-# Nayan Bhiwapurkar 
+# Data Scientist | Data Engineer | Data Analyst | AI/ML Developer 
 
 
 
