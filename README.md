@@ -4,14 +4,14 @@
 
 
 ## TECHNICAL SKILLS
-- Languages: Python, R, SQL, Java, JavaScript, C++, Bash.
-- Libraries: NumPy, Pandas, Matplotlib, Seaborn, Plotly, SciKit-Learn, SciPy, TensorFlow, Keras, PySpark, PyTorch.
-- Frameworks: Spring Boot, Django REST, Flask RESTful, Angular.
-- Cloud Technologies: Amazon Web Services AWS, Microsoft Azure, Google Cloud Platform GCP.
-- Certification: Amazon Web Services AWS Certified Cloud Practitioner.
-- Tools, Databases, and OS: Jupyter, Google Colab, Tableau, Power BI, Oracle, MongoDB, Git, GitHub, Windows, MacOS, Linux.
-- Other: Jira, Confluence, Jenkins, Notion, Microsoft Office (Excel), Apache Spark, Apache Kafka, Docker, Kubernetes, Streamlit.
-
+- Languages: Python, SQL, SparkSQL, Java, Scala, R, Bash
+- Libraries: PySpark, Pandas, NumPy, Matplotlib, Seaborn, Plotly, SciKit-Learn, SciPy, TensorFlow, Keras, PyTorch
+- Big Data Technologies: Apache Spark, Hadoop, Hive, Kafka, Airflow, Snowflake, Databricks, Azure Data Factory, Data Modeling
+- Cloud Technologies: AWS (S3, Lambda, Glue, IAM, EMR, Redshift, Kinesis), Azure, GCP (BigQuery), Docker, Kubernetes, Terraform
+- Databases and Tools: Relational (PostgreSQL, Oracle SQL, MySQL), NoSQL (MongoDB, Neo4j), Tableau, Power BI, Git, GitHub
+- Web App Frameworks: Spring Boot, Django REST, Flask RESTful, FastAPI, Angular
+- Others: Jira, Confluence, Jenkins, Notion, Jupyter, Google Colab, Microsoft Office (Excel), Postman, Streamlit
+- Certifications: AWS Certified Cloud Practitioner, ASU Project Management
 
 
 
@@ -19,8 +19,7 @@
 
 ### MS in Data Science Analytics and Engineering 
 #### Arizona State University, Tempe, AZ, US (_May 2025_)
-- Courses: Statistics for Data Analysts, Artificial Intelligence, Fundamentals of Statistical Learning and Pattern Recognition, Data
-Mining, Data Visualization, Data Processing at Scale, Statistical Machine Learning, Optimization.
+- Courses: Statistics for Data Analysts, Artificial Intelligence, Data Mining, Data Visualization, Data Processing at Scale, Statistical Machine Learning, Deep Learning, Numerical Optimization, Fundamentals of Statistical Learning and Pattern Recognition,
 
 ### B.E in Computer Science Engineering
 #### University of Pune, Pune, MH, India (_May 2020_)
@@ -31,7 +30,7 @@ Mining, Data Visualization, Data Processing at Scale, Statistical Machine Learni
 
 ## Work Experience
 
-### Software Engineer @ Cognizant Technology Solutions (_November 2020 - June 2023_)
+### Data Engineer @ Cognizant Technology Solutions (_November 2020 - June 2023_)
 
 ### Software Engineer Intern @ Cognizant Technology Solutions (_December 2019 - April 2020_)
 
